@@ -20,9 +20,9 @@ global.autoBio = true
 global.antiSpam = true
 global.sign = "☃️❄️"
 // ☞ ➻ ➽ ☛ 〆 
-global.bank = "Opay"
-global.bankname = "BLUE"
-global.accnumber = "7041039367"
+global.bank = "MONIEPOINT"
+global.bankname = "OLUWOLE"
+global.accnumber = "7042850798"
 global.language = "en"
 global.sessionName = "session"
 global.pairingCode = true 
